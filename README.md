@@ -47,4 +47,4 @@ ChikaBot
 1. 这个程序以**MIT许可证**开源
 2. ChikaBot不是商标，只是和某偶像企划的角色名称相似
 
-QPomelo 2018
+[QPomelo](https://llquery.cn) 2018
