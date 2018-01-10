@@ -26,7 +26,8 @@ using Newbe.CQP.Framework;
 using System.Runtime.Serialization;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using System.ValueTuple```
+using System.ValueTuple;
+```
 试试引用这几个命名空间（没有请添加NuGet包）
 
 ## 如何使用
