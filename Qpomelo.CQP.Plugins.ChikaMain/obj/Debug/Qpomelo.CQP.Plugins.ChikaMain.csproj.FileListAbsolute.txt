@@ -1,0 +1,155 @@
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll.config
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Autofac.dll
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.dll
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.dll
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.xml
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.xml
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csproj.CoreCompileInputs.cache
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+C:\Users\cncre\documents\visual studio 2017\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csprojResolveAssemblyReference.cache
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll.config
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Autofac.dll
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.dll
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.dll
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.dll
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.dll
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.EF6.dll
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.Linq.dll
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.xml
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.xml
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.xml
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.xml
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll.config
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csproj.CoreCompileInputs.cache
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csproj.CoreCompileInputs.cache
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll.config
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Autofac.dll
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.dll
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.dll
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.xml
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.xml
+F:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll.config
+I:\Projects\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csprojResolveAssemblyReference.cache
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csproj.CoreCompileInputs.cache
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll.config
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Autofac.dll
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.dll
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.dll
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.xml
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.xml
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\cncre\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csprojResolveAssemblyReference.cache
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csprojResolveAssemblyReference.cache
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csproj.CoreCompileInputs.cache
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll.config
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Autofac.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.EF6.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.Linq.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.xml
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.xml
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.xml
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.xml
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll.config
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll.config
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Autofac.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.xml
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.xml
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.xml
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll.config
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csproj.CoreCompileInputs.cache
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll.config
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Autofac.dll
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.dll
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.dll
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\obj\Debug\Qpomelo.CQP.Plugins.ChikaMain.pdb
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.Extras.dll
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\RestSharp.dll
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.Extras.xml
+C:\Users\Admin\Desktop\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\RestSharp.xml
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.Extras.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\RestSharp.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.Extras.xml
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\RestSharp.xml
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.Extras.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\RestSharp.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.ValueTuple.dll
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\Newbe.CQP.Framework.Extras.xml
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\RestSharp.xml
+I:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.ValueTuple.xml
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.ValueTuple.dll
+E:\Qpomelo.CQP.Plugins.ChikaMain\Qpomelo.CQP.Plugins.ChikaMain\bin\Debug\System.ValueTuple.xml
