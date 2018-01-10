@@ -21,12 +21,12 @@ ChikaBot
  + 剩下的在NuGet中引用了的程序包
 
 ## 小提示
-`using System.Data.Sqlite;
-using Newbe.CQP.Framework;
-using System.Runtime.Serialization;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using System.ValueTuple`
+`using System.Data.Sqlite;`
+`using Newbe.CQP.Framework;`
+`using System.Runtime.Serialization;`
+`using Newtonsoft.Json;`
+`using Newtonsoft.Json.Linq;`
+`using System.ValueTuple`
 试试引用这几个命名空间（没有请添加NuGet包）
 
 ## 如何使用
